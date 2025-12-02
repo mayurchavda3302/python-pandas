@@ -1,0 +1,60 @@
+Pandas is created in the 2008 by the wes mckinney
+
+
+mainly created  for the exttarcing data from  CSV
+
+
+
+Pandas is powfull and popuar  python librariy foe the data Manipulation  and data analysis
+it simplifiesl workng with the structured databases like  Tables , spreshhest  or time seris data.
+
+
+key Feature:-
+ work with CSV and Excel
+ handling missing values 
+ bulit  on NumPy for fast complutions
+
+
+why use  Pandas
+
+  Perfomance
+  ease to user
+  integration
+
+
+Pandas key concepts
+ seris :-
+   is one dimenisnal labaed array that hold any data types ,int, float stinf and python objects
+   each element in the seris  has a uninq labaed called index.
+
+
+   if often used for track changes  or patterns  over time , such as daliy templates stocke prise etcc..
+
+
+Data Frames 
+   is a two dimenisnal structed labaed data similer to  Tables in databases  or Excel
+
+
+   it contins row and columns
+
+   
+
+first step is to understand the data set
+identify the data
+plan the next step
+
+
+
+problems in the dataaset can be
+
+we does  not know  how many rows and columns
+what types of data it has
+missing values
+
+
+we use info() to get the information about the dataset
+it will show us the number of rows and columns
+also datatypes of each column
+missing values
+
+non null counts

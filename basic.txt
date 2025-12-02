@@ -1,0 +1,53 @@
+
+data Manipulation :- 
+chnaging,orgnizing  or prepering data to make it useful and easiesr to understand.
+
+goal : to  clean ,tranform and structre raw data  for better usablity
+
+
+Exa:-
+  Organizing a Grocery list: sorting random items   into cartegory  like "fruits" or "daliry"
+
+  Fizing errors:- 
+
+
+
+Data analysis:-
+ exttarcing paatern ,tread and insighs from the data to solve 
+
+ goal : to answer question or identify treads using datak
+
+
+
+NumPy = math, matrices, vectors, fast calculations
+Pandas = handling and cleaning datasets
+Both are essential. You cannot do ML without them.
+
+
+
+Load data → Pandas
+Clean & preprocess → Pandas
+Convert to arrays → NumPy
+Train model → NumPy inside ML libraries
+Save/Analyze results → Pandas + NumPy
+
+
+| Feature  | NumPy                        | Pandas                              |
+| -------- | ---------------------------- | ----------------------------------- |
+| Best For | Math, arrays, matrices       | Tables, datasets                    |
+| Handles  | Numbers only                 | All types (strings, dates, numbers) |
+| Speed    | Faster                       | Slower than NumPy                   |
+| Used In  | ML training, neural networks | Data cleaning, CSV/Excel            |
+| Shape    | 1D & 2D arrays               | DataFrame (rows & columns)          |
+
+
+
+
+diffrenct between Manipulation and analysis
+
+Manipulation  :-
+   maninly clean  Organizing and fix the errors  from data
+
+analysis:
+
+   exttarcing ,find paaterns and solve problems from data
