@@ -1,0 +1,18 @@
+
+
+in this folder we learn how to handle the missing data  using pandas
+
+NAN( Not a number)
+
+None( For object data types)
+
+
+befroe handing  we neeed to know where data is missing and which type of data is missing...
+
+we use  isnull()    
+
+- it wii give true of  False
+
+True- NaN  -  value is missing
+False  - value is  present
+
